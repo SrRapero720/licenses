@@ -4,7 +4,7 @@
 The Licensor grants to You a worldwide, exclusive, non-transferable, and royalty-free license to use, redistribute, and create derivative works of the Software, solely for non-commercial purposes.
 
 ### 1.1 Amend Terms
-The Licensor reserves the right to modify or amend new terms of this License at any time. Upon modification, all previously granted permissions shall be revoked, until You agree all the new terms.
+The Licensor reserves the right to modify, amend or remove terms of this License at any time. Upon modification, all previously granted permissions shall be revoked, until You agree all the new terms.
 
 ## 2. Non-Competition
 Any redistribution or derivative works must not compete directly or indirectly with the original Software.
