@@ -32,7 +32,7 @@ The Software is provided "as is", without any express or implied warranties. The
 
 ## 9. Definitions
 - **Licensor**: Jorge Raul Arroyo Perez, publicly known as J-RAP or SrRapero720.
-- **You**: The individual or entity agreeing to the terms of this License, specifically granted to the individual publicly known as Toshayo.
+- **You**: The individual or entity agreeing to the terms of this License.
 - **Software**: The subject of this License, including all related code and documentation.
 - **Use**: Any utilization of the Software in accordance with the License terms.
 - **End-user**: Any individual or entity that receives and uses the final version of the Software.
