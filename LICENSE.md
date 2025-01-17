@@ -3,14 +3,17 @@
 ## 1. Grant of License
 The Licensor grants to You a worldwide, exclusive, non-transferable, and royalty-free license to use, redistribute, and create derivative works of the Software, solely for non-commercial purposes.
 
-## 2. Non-Competition Clause
+### 1.1 Amend Terms
+The Licensor reserves the right to modify or amend new terms of this License at any time. Upon modification, all previously granted permissions shall be revoked, until You agree all the new terms.
+
+## 2. Non-Competition
 Any redistribution or derivative works must not compete directly or indirectly with the original Software.
 
 ## 3. Scope of License
 This License does not permit sublicensing or the transfer of rights to any other party. It does not preclude the Licensor from granting similar licenses to other parties.
 
 ## 4. Redistribution Rights
-You are permitted to distribute the Software at no cost to the end-user, with strictly limited distribution to the online platforms: `curseforge.com`, `modrinth.com`, and `mcmod.cn`.
+You are permitted to distribute the Software at no cost to the end-user, with strictly limited distribution to the online platforms: `github.com` `curseforge.com`, `modrinth.com`, and `mcmod.cn`.
 
 ### 4.1 Reward Program Participation
 Any rewards, incentives, or monetary compensation through any reward programs offered by the aforementioned platforms, must be shared equally (50/50) between You and the Licensor. The division shall be based on the total compensation provided by the platform and its terms.
