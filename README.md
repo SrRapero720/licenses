@@ -20,4 +20,4 @@ license granted by me, check the list below.
 |          GRANTED USER (GITHUB)         |                     PROJECT (ORIGINAL)                    |                               PROJECT (FORK)                               | LICENSE STATUS |  LICENSE NAME |
 |:--------------------------------------:|:---------------------------------------------------------:|:--------------------------------------------------------------------------:|:--------------:|:-------------:|
 | [Toshayo](https://github.com/Toshayo/) | [WaterFrames](https://github.com/SrRapero720/waterframes) | [WaterFramesBackported](https://github.com/Toshayo/WaterFramesBackported)  |     ACTIVE     | J-RAP LICENSE |
-| [Mc-andan](https://github.com/Mc-andan/) | [WaterFrames](https://github.com/SrRapero720/EmbeddiumPlus) | [WaterFramesBackported](https://github.com/Mc-andan/EmbeddiumPlus)  |     ACTIVE     | J-RAP LICENSE |
+| [Mc-andan](https://github.com/Mc-andan/) | [Chloride](https://github.com/SrRapero720/EmbeddiumPlus) | [Chloride](https://github.com/Mc-andan/EmbeddiumPlus)  |     ACTIVE     | J-RAP LICENSE |
