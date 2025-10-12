@@ -7,9 +7,12 @@ The Licensor grants to You a worldwide, exclusive, non-transferable, and royalty
 The Licensor reserves the right to modify, amend or remove terms of this License at any time. Upon modification, all previously granted permissions shall be revoked, until You agree all the new terms.
 
 ## 2. Non-Competition
-Any redistribution or derivative works must not compete directly or indirectly with the original Software.
+Redistribution or derivative works must not compete directly with the original Software.
 
-_Is considered competition when a different software can run on the same hardware and software environment, fullfilling the same functions, being replaceable each other._
+_Is considered direct competition when a different software can run on the same hardware and software environment, fullfilling the same functions, being replaceable each other._
+
+## 2.1 Unsupported environments competition
+Derivated software can be distributed for environments that the original software does not recognise as a supported environment, including future environments dropped by the original software
 
 ## 3. Scope of License
 This License does not permit sublicensing or the transfer of rights to any other party. It does not preclude the Licensor from granting similar licenses to other parties.
