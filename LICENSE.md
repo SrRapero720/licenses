@@ -9,14 +9,24 @@ The Licensor reserves the right to modify, amend or remove terms of this License
 ## 2. Non-Competition
 Any redistribution or derivative works must not compete directly or indirectly with the original Software.
 
+_Is considered competition when a different software can run on the same hardware and software environment, fullfilling the same functions, being replaceable each other._
+
 ## 3. Scope of License
 This License does not permit sublicensing or the transfer of rights to any other party. It does not preclude the Licensor from granting similar licenses to other parties.
 
 ## 4. Redistribution Rights
-You are permitted to distribute the Software at no cost to the end-user, with strictly limited distribution to the online platforms: `github.com` `curseforge.com`, `modrinth.com`, and `mcmod.cn`.
+You are permitted to distribute the Software or derivated with no placed restrictions to the end-user, with strictly limited distribution to the online platforms: `github.com` `curseforge.com`, `modrinth.com`, and `mcmod.cn`.
 
 ### 4.1 Reward Program Participation
 Any rewards, incentives, or monetary compensation through any reward programs offered by the aforementioned platforms, must be shared equally (50/50) between You and the Licensor. The division shall be based on the total compensation provided by the platform and its terms.
+
+### 4.2 Platform Restrictions
+Restrictions placed by the aforementioned platforms must be followed as part of an accomplish of their terms of service.
+
+### 4.3 Software Restrictions
+Restrictions placed by the original software defining the limits and the capabilities of the original software must be followed on derivated software
+
+_Is considered a "software restriction" when software is aware about the existance of the hardware environment and software environment, firing a process termination indicating an explicit restriction to run on the current environment_
 
 ## 5. Source Code Visibility
 The source code of the Software must be made publicly available without any restrictions with strictly limited distribution to the online platform `github.com`.
@@ -25,7 +35,7 @@ The source code of the Software must be made publicly available without any rest
 All copies of the Software and any publicly displayed content must include a copyright notice clearly attributing the Licensor.
 
 ## 7. Modifications and Derivative Works
-Any modifications made to the Software by You shall be co-owned with the Licensor. You may not claim exclusive copyright on these modifications unless explicitly stated in a separate legal agreement. The Licensor retains the right to make copyright claims on all modifications.
+Any modifications made to the Software by You shall be co-owned with the Licensor. The Licensor retains the right to make copyright claims on all modifications.
 
 ## 8. Disclaimer of Warranties and Limitation of Liability
 The Software is provided "as is", without any express or implied warranties. The Licensor shall not be held liable for any damages resulting from the use or inability to use the Software, under any legal theory.
@@ -36,6 +46,6 @@ The Software is provided "as is", without any express or implied warranties. The
 - **Software**: The subject of this License, including all related code and documentation.
 - **Use**: Any utilization of the Software in accordance with the License terms.
 - **End-user**: Any individual or entity that receives and uses the final version of the Software.
-- **Redistribution**: The act of making the Software available to end-users.
+- **Redistribution**: The act of make the Software available to the end-users.
 
 This License constitutes the entire agreement between the Licensor and You regarding the Software, superseding any prior agreements or understandings.
