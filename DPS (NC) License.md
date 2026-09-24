@@ -1,12 +1,11 @@
 # Defensive Public Source (Non-Commercial) License v1.0.0
-DPS (NC) License - [See license file Here](https://github.com/SrRapero720/licenses/blob/main/DPS%20(NC)%20License.md).
+DPS (NC) License - [See license file](https://github.com/SrRapero720/licenses/blob/main/DPS%20(NC)%20License.md).
 
 ## Platforms
-- ``curseforge.com``
-- ``modrinth.com``
+- ...
 
 ## Required Notice
-``Copyright SrRapero720 (https://github.com/SrRapero720)``
+``...``
 
 ## 0. Definitions
 - **Licensor**: The individual or legal entity offering these terms.
