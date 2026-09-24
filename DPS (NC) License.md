@@ -1,5 +1,5 @@
 # Defensive Public Source (Non-Commercial) License v1.0.0
-DPS (NC) License - \<website url\>.
+DPS (NC) License - [See license file Here](https://github.com/SrRapero720/licenses/blob/main/DPS%20(NC)%20License.md).
 
 ## Platforms
 - ``curseforge.com``
