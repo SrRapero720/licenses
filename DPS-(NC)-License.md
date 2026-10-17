@@ -1,5 +1,5 @@
 # Defensive Public Source (Non-Commercial) License v1.0.1
-DPS (NC) License - [See license file](https://github.com/SrRapero720/licenses/blob/main/DPS%20(NC)%20License.md).
+DPS (NC) License - [See license file](https://github.com/SrRapero720/licenses/blob/main/DPS-(NC)-License.md).
 
 ## Platforms
 - ...
